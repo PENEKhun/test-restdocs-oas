@@ -1,7 +1,7 @@
 ifndef::snippets[]
 :snippets: ../../build/generated-snippets
 endif::[]
-= 원티드 2023 REST API 문서
+= 초간단 API 문서이무니다
 :doctype: book
 :icons: font
 :source-highlighter: highlightjs
